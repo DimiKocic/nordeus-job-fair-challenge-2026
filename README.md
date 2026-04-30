@@ -1,4 +1,4 @@
-[README.md](https://github.com/user-attachments/files/27249396/README.md)
+
 # Clan Victory Predictor
 ### Nordeus Job Fair 2026 — Data Science Challenge
 
